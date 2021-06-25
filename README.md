@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Aman.</h2>
+<h2> Hey there! I'm Aman 👨‍💻.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -42,7 +42,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/aman-ajugia-4a421a196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aman%20Harshad%20Ajugia-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/amanajugia/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-amanajugia-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:amanaj2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amanaj2001@gmail.com-blue?style=flat-square&logo=gmail"></a>
