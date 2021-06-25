@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing webpage solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing webpages solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Engineering at Thakur College Of Engineering and Technology.
 - 🌱 &nbsp; Learning more about Web Development, M.E.R.N Stack and React Js.
 - ✍️ &nbsp; Pursuing Web Development and Wordpress Develpment as hobbies/side hustles.
